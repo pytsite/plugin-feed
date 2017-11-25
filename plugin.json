@@ -1,0 +1,19 @@
+{
+  "name": "feed",
+  "version": "1.0",
+  "description": {
+    "en": "Feed",
+    "ru": "Feed",
+    "uk": "Feed"
+  },
+  "url": "https://github.com/pytsite/plugin-feed",
+  "author": {
+    "name": "Alexander Shepetko",
+    "email": "a@shepetko.com",
+    "url": "https://shepetko.com"
+  },
+  "requires": {
+    "packages": [],
+    "plugins": []
+  }
+}
