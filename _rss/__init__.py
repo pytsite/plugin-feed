@@ -6,6 +6,6 @@ from . import _em as em, _media as media, _pytsite as pytsite, _content as conte
 from ._parser import Parser
 
 
-__author__ = 'Alexander Shepetko'
+__author__ = 'Oleksandr Shepetko'
 __email__ = 'a@shepetko.com'
 __license__ = 'MIT'

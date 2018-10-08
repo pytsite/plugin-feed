@@ -7,7 +7,7 @@ from pytsite import package_info as _package_info
 from .. import _abstract, _xml, _error
 from . import _em, _media, _pytsite, _dc, _sy, _content, _atom, _slash, _wfw, _yandex
 
-__author__ = 'Alexander Shepetko'
+__author__ = 'Oleksandr Shepetko'
 __email__ = 'a@shepetko.com'
 __license__ = 'MIT'
 

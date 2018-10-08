@@ -9,7 +9,7 @@ from lxml import etree as _etree
 from pytsite import validation as _validation, util as _util
 from .. import _xml, _error
 
-__author__ = 'Alexander Shepetko'
+__author__ = 'Oleksandr Shepetko'
 __email__ = 'a@shepetko.com'
 __license__ = 'MIT'
 

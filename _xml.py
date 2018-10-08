@@ -1,11 +1,11 @@
 """Abstract XML Based Feed.
 """
-from lxml import etree as _etree
-from . import _abstract
-
-__author__ = 'Alexander Shepetko'
+__author__ = 'Oleksandr Shepetko'
 __email__ = 'a@shepetko.com'
 __license__ = 'MIT'
+
+from lxml import etree as _etree
+from . import _abstract
 
 
 class Serializable(_abstract.Serializable):

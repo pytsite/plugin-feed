@@ -1,12 +1,12 @@
 """Feed Writer.
 """
+__author__ = 'Oleksandr Shepetko'
+__email__ = 'a@shepetko.com'
+__license__ = 'MIT'
+
 from typing import Any as _Any, Tuple as _Tuple, List as _List
 from abc import ABC as _ABC, abstractmethod as _abstractmethod
 from . import _error
-
-__author__ = 'Alexander Shepetko'
-__email__ = 'a@shepetko.com'
-__license__ = 'MIT'
 
 
 class Serializable:
